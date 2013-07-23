@@ -18,47 +18,43 @@ COURSE OUTLINE (2013-2014)
 COURSE DESCRIPTION:
 ===================
 
-In this course students will practice the peculiar skill of "thinking like a scientist", with the goal that all students will leave the course able to think like scientists in many different contexts and situations.
+In this course we will practice the peculiar skill of "thinking (and acting)
+like a scientist", with the goal that we will all leave the course better able
+to act like scientists in many different contexts and situations.
 
-But what does it mean to think like a scientist?  This is a little hard to
+But what does it mean to act like a scientist?  This is a little hard to
 define.  Being a scientist is more like being a street fighter than a fencer --
 any tool, any move will be employed if it accomplishes the goal of advancing
 human understanding of the natural world.  A scientist figures stuff out and is
-guided by a fundamental assumption, a prime directive, if you will, that it is
-*always* possible to figure it out.  Not by asking a friend or reading a book
+guided by a fundamental assumption, a prime directive, if you will, that **it is
+always possible to figure it out**.  Not by asking a friend or reading a book
 (though collaboration is encouraged and it is always wise to learn what others
 have done) but by asking Nature directly.
 
 How does one ask Nature a question? 
 
-Understanding that question is the goal of this course.  The short answer is "do an experiment", but of course, it's more complicated than that.  The science fair version of the scientific method is not how real scientists work.
+Understanding that question is the goal of this course.  The short answer is
+"do an experiment", but of course, it's more complicated than that.  The
+science fair version of the scientific method is not how real scientists work.
+Your process in this class will include observing, questioning, model building,
+model testing (the experiment itself), analysing, and
+reporting/presenting/convincing in a repeating cycle that will get us ever
+closer to truth and understanding.
+
+We will accomplish this through study of particular phenomena and concepts,
+most of which traditionally fall within courses in biology, chemistry, and
+physics, starting with the simplest models as we increase our facility with the
+process and gain deeper understanding.  The fall term theme is measurement, the
+winter term focuses on energy, while the spring term focuses on application of
+our skills to earth and the environment.  
 
  
-
- 
-
-
-
-
-
-
-
-This course prepares students to study science in a laboratory environment,
-including introduction to selected concepts in biology, chemistry and physics.
-The content theme for fall term is matter (including concepts of density and
-other physical properties, metric measurements, basic principles of chemistry,
-and types and states of matter). The winter term content theme is energy
-(including types of energy, combustion of hydrocarbons, respiration and
-photosynthesis, laws of thermodynamics, and electricity).  Environmental
-science is the theme for spring term (including topics in sustainability,
-ecosystem services, energy choices and challenges for human communities).
-Content is subject to change in order to accommodate student interests,
-relevant topics, and opportunities that arise during the school year.
-
 
 ================
 COURSE OUTCOMES:
 ================
+
+The following are specific skills and concepts, the mastery of which will largely determine your grade in the course.  Progress reports will include an assessment of your current level of understanding and proficiency with skills that fall within each of the following areas:
 
 1. reason deductively and inductively
 2. create relevant questions about their observations
@@ -76,23 +72,23 @@ COURSE OUTCOMES:
 14. judge experiments with regard to sources of error, precision and accuracy
 
 
+Your overall grade will be determined as a weighted average of the following areas:
 
-===============
-CONTENT OUTLINE
-=============== 
-
------------------
-1.  
------------------
-    a)  
+1. Course outcomes	50%
+2. Projects		20%
+3. Homework		10%
+4. Quizzes		10%
+5. Final Exam		10%
 
 
+It is very important that you think of your grade and the course outcomes as a
+progress report on your current level of understanding and proficiency, and
+**NOT** as a reflection of your worth as a human being.  This course requires
+*effort* and *time*, and I *do not care if it takes you all term to learn
+something*.  A low score or grade does not mean that you are not talented,
+smart, or capable of succeeding in this class -- it **means that you still have
+more work to do**.  Think of the class like training camp: you are not supposed
+to be perfect on all the drills in the first week, or even the second.
 
-
-
-**EVALUATIVE CRITERIA:**
-1. Periodic exams, quizzes, assignments
-2. Final examination
-3. Class participation/active learning
-
+ 
 
