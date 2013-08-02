@@ -3,7 +3,7 @@ The Birthday Candle
 
 :date: 2013-09-12
 :summary: 
-:category: lessons
+:category: problems
 :tags: 
 
 

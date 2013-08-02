@@ -1,7 +1,7 @@
 Lesson 
 ########
 
-:date: 2013-
+:date: 2013-09-01
 :summary: 
 :category: lessons
 :tags: 
