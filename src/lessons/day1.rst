@@ -1,10 +1,10 @@
-Lesson 1 
-########
+Day 1 
+#####
 
 :date: 2013-09-01
 :summary: What this class is about
 :category: lessons
-:tags: science, measurement
+:tags: fall, science, measurement, overview
 
 ==============
 Today's Topics

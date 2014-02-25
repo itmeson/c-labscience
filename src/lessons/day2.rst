@@ -1,10 +1,10 @@
-Lesson 2 
-########
+Day 2 
+#####
 
 :date: 2013-09-02
 :summary: Measurement!
 :category: lessons
-:tags: measurement 
+:tags: fall, measurement 
 
 
 ========
