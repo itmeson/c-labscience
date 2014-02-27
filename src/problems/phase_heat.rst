@@ -5,7 +5,7 @@ Temperature and Phase Changes
 :summary: Final project for winter trimester
 :category: problems
 :tags: phases, heat, temperature, energy, lab, presentation
-
+:duedate: 2014-03-04
 
 =====
 Intro 

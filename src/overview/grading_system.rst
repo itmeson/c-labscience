@@ -26,6 +26,6 @@ There are a few rules for re-assessments:
 3. If I help you with a given skill, you must wait at least one day before you try a re-assessment 
 
 
-.. _Skills: ../skills.html
-.. _Homework: ../category/homework.html
-.. _Quizzes: ../category/quizzes.html
+.. _Skills: skills.html
+.. _Homework: category/homework.html
+.. _Quizzes: category/quizzes.html

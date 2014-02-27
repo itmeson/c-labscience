@@ -2,7 +2,7 @@ Outcomes
 ########
 :date: 2014-02-02
 :summary: List of skills for Lab Science
-:tags: outcomes, skills, 
+:tags: outcomes, skills
 :category: overview
 
    
@@ -22,8 +22,6 @@ Outcomes
 14. judge experiments with regard to sources of error, precision and accuracy (O.14_)
 
    
-
-.. include:: st_tags.rst
 
 .. _O.1: ../tag/O.1.html
 .. _O.2: ../tag/O.2.html
