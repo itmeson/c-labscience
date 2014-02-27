@@ -1,54 +1,31 @@
 Grading System
 ##############
 
-:date: 2013-03-05
+:date: 2014-02-05
 :category: overview
 :tags: standards, grading, overview
 
 Grades in this class will be assigned based on a weighted average of your
 performance in these categories:
 
-* 10%	Final Exam
-* 10%	Homework_
-* 10%	Quizzes_	
-* 20%	Participation
-* 50%	Standards_ 
-
-The final exam will be comprehensive.
-
-Homework will always be due in class, neatly handwritten or typed, unless
-otherwise specified in a particular assignment.  Late work will not be
-accepted.
-
-Quizzes will be at the *start* of each class session, and, if missed, they
-cannot be made up.
-
-Your participation grade will include your contributions to the class and to
-your groups during class time.  You will prepare a short assignment at the end
-of the term describing your specific contributions to the class and your group,
-and justifying a letter grade that you will propose.  (You will suggest a grade
-in the range A-F, and explain why it is the grade you deserve).
-
-The largest portion of your grade will come from my assessment of your mastery
-of specific skills and concepts called "Standards"  -- a long list of these
-skills is at Standards_.  These skills will be assessed through the quizzes,
-homework, final exam, project, and class exercises.  You will receive a score
-in the range 0-4 on each standard (0 indicating that you did not attempt it, a
-1 or 2 indicating that your skill is developing but not yet sufficient, and a 3
-or 4 demonstrating satisfactory performance or mastery level performance.
-Although you cannot make up a quiz, you may ask for a new assessment of the
-standards for which you did not earn a 4.  The procedure for taking a new
-assessment is to schedule an appointment during office hours or during class
-work time within one week, during which you will convince me that you have
-improved your understanding.  I will then create a new assessment of the same
-skills, and will keep your *highest* score on that standard over the course of
-the term. 
-
-Your scores for the Standards portion of the course will be kept separately
-from Ulearn, and will be emailed to you on a weekly basis.  It will be your
-responsibility to ensure the accuracy of all scores. 
+* 30%	Labs -- performing experiments, keeping a journal, writing formal reports, preparing presentations
+* 10%	Homework_ -- completion and mastery of extra practice and reflection assignments
+* 20%	Quizzes_ -- weekly written assessments	
+* 10%	Participation -- Asking and answering questions in class, contributions to group projects
+* 30%	Course Skills_ -- See below
 
 
-.. _Standards: ../standards.html
+The course skills are the most complicated part of the grade, so they merit the most explanation.  The course skills is a lst of facts, concepts, and practical skills that together make up what it means to "think like a scientist".  Your mastery of these items is assessed though you demonstrating to the teacher and to other students what you know and what you can do.  This often takes the form of quizzes and tests, but can be through classroom conversation, presentations, work on labs and lab reports, etc. -- the main point is that you produce *something* that demonstrates mastery.  Every time you attempt an assessment on a particular skill, you will receive feedback in the form of comments and a score.  The comments will be aimed to help you improve, and the score will be combined with future assessment attempts to show your history in that particular skill -- it takes time and effort to learn something difficult, so you will get as many opportunities as you need to continue improving. 
+
+You will receive a weekly grade report via email showing your most recent overall grade as well as all work you have done that contributed to the grade.  If you wish to improve your overall grade at any time, you should study this weekly email carefully to understand where there is room for improvement, and then contact me to arrange a chance to talk through it and then to try a new assessment.  
+
+There are a few rules for re-assessments:
+
+1. Only one attempt per day
+2. You must contact me, and tell me *which skill* you want to improve your score on, *what you have done* to improve your understanding, and *propose a new way to demonstrate* the skill
+3. If I help you with a given skill, you must wait at least one day before you try a re-assessment 
+
+
+.. _Skills: ../skills.html
 .. _Homework: ../category/homework.html
 .. _Quizzes: ../category/quizzes.html

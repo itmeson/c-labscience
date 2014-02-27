@@ -1,8 +1,8 @@
 Outcomes
 ########
-:date: 2013-09-01
-:summary: List of content outcomes standards for Lab Science
-:tags: outcomes
+:date: 2014-02-02
+:summary: List of skills for Lab Science
+:tags: outcomes, skills, 
 :category: overview
 
    
