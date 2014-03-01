@@ -9,6 +9,8 @@ TIMEZONE = 'America/Los_Angeles'
 GOOGLE_ANALYTICS = "UA-20141547-1"
 DEFAULT_LANG='en'
 
+DISQUS_SITENAME = 'labscience'
+
 # Blogroll
 LINKS =  (
     ('SAGE', 'http://sagemath.org/'),

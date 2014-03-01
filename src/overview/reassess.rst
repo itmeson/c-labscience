@@ -10,5 +10,5 @@ How to Schedule an Appointment
 2. Fill it out with the requested info on when you want to meet and why
 
 
-.. _form: http://betnel.youcanbook.me/
+.. _form: http://mbetnel.youcanbook.me/
  
