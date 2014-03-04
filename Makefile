@@ -4,13 +4,13 @@ PELICANOPTS=None
 
 BASEDIR=$(PWD)
 INPUTDIR=$(BASEDIR)/src
-OUTPUTDIR=$(BASEDIR)/output
+OUTPUTDIR=$(BASEDIR)/fall2014
 CONFFILE=$(BASEDIR)/pelican.conf.py
 THEME=pelican-bootstrap3
 
 
 SSH_HOST=web 
-SSH_TARGET_DIR=markbetnel.com/courses/labscience
+SSH_TARGET_DIR=markbetnel.com/courses/labscience-f2014
 
 DROPBOX_DIR=~/Dropbox/Public/
 
