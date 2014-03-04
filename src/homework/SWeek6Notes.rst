@@ -4,7 +4,7 @@ Spring Week 6 Notes
 :date: 2014-04-28
 :summary: Your notes document for week 6 can be found in your shared items folder in Drive, with the title "YourBlock.YourName.week6notes".
 :tags: homework, notes
-:duedate: 2014-05-04
+:duedate: 2014-05-05
 
 One day each week you will be the notetaker -- on that day you should focus on recording what we do in class, the questions that are asked, the work you do to figure out the questions, and the answers.  Then you should share these notes with the rest of your group.
 

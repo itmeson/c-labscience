@@ -29,4 +29,4 @@ TAG_SAVE_AS = 'tag/{slug}.html'
 TAG_URL = 'tag/{slug}.html'    
 
 PLUGIN_PATH = '../../../pelican-plugins' 
-PLUGINS = ['create_calendar', 'ical']
+PLUGINS = ['create_calendar', 'ical', 'gallery', 'pelican-vimeo', 'pelican-youtube']
