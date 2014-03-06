@@ -1,10 +1,8 @@
-Outcomes
-########
 :date: 2014-02-02
 :summary: List of skills for Lab Science
 :tags: outcomes, skills
 :category: overview
-
+:status: drafts
    
 1. reason deductively and inductively  (O.1_ )
 2. create relevant questions about their observations (O.2_)
