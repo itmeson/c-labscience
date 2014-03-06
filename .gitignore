@@ -1,3 +1,5 @@
 output/
 *.pyc
 *.swp
+dev/
+fall2014/
