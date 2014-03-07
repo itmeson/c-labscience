@@ -1,7 +1,7 @@
+S Week 1 - Wednesday
+####################
 
-##################
-
-:date: 2014-03-11
+:date: 2014-03-12
 :summary: 
 :category: lessons
 :tags: 

@@ -13,11 +13,7 @@ DISQUS_SITENAME = 'labscience'
 
 # Blogroll
 LINKS =  (
-    ('SAGE', 'http://sagemath.org/'),
-    ('Wolfram Alpha', 'http://www.wolframalpha.com/'),
-    ('Khan Academy', 'http://www.khanacademy.org'),
-    ('Math Fun Facts', 'http://www.math.hmc.edu/funfacts/'),
-    ('R - Statistics', 'http://cran.r-project.org'),
+    ('PhET sims', 'http://phet.colorado.edu'),
     ('DESMOS', 'http://www.desmos.com')	
         )
 

@@ -2,9 +2,10 @@ S Week 1 - Monday
 #################
 
 :date: 2014-03-10
-:summary: Introduction to the spring term.  Our goal this week is to figure out what was really going on with the water-ice-salt mixtures 
+:summary: Introduction to the spring term.  Our goal this week is to figure out what was really going on with the water-ice-salt mixtures. Reminder -- Tuesday schedule today: A,F,E does this Monday, G does this Tuesday. 
 :category: lessons
 :tags: spring, reactions, rates, phase change, energy
+
 
 
 =======

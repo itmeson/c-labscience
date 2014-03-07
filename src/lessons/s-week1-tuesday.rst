@@ -2,7 +2,7 @@ S Week 1 - Tuesday
 ##################
 
 :date: 2014-03-11
-:summary: Continuing with understanding phase changes and the effects of salt on disrupting/changing the phase change process
+:summary: Continuing with understanding phase changes and the effects of salt on disrupting/changing the phase change process. Reminder: Wednesday schedule today. E does this Monday. A, F does this Tuesday. G does this Wednesday. 
 :category: lessons
 :tags: phase change, energy, spring, rates, energy, salt
 
@@ -11,7 +11,7 @@ S Week 1 - Tuesday
 Warm Up
 =======
 
-
+What temperature will a mixture of 100 grams of water at 50C reach when it is mixed with 150 grams of 10C water?
 
 
 ==============
@@ -29,6 +29,11 @@ T_{new} = \\frac{m_{cold}T_{cold} + m_{warm}T_{warm}}{m_{cold} + m_{warm}}
 $$
 
 The reason this works is that when two molecules collide, if one of the molecules loses energy, the other one picks up exactly the amount that was lost (energy is *conserved*).  So as the molecules of the warmer water collide with more and more of the molecules of the colder water, on average the warmer water *cools down* and the cooler water *warms up*.  The exact amount of kinetic energy that the cold water picks up is precisely equal to the amount of kinetic energy lost by the warmer water.  Thus the temperature has to "meet in the middle".  
+
+
+==========
+What Next?
+==========
 
 But an equal mass of ice mixed with the water leads to a *lower* temperature than the weighted average.  This means that the process of melting the ice *takes more energy* out of the warm water than does the process of mixing the cold water in, *even if the cold water started just barely above 0C*.  
 
@@ -52,6 +57,23 @@ In the ice-water mixture, there are three different ways we can break up the "sy
 
 Draw diagrams for each of the system components, showing the energy going in and out of each piece.  What form is this energy in? (potential, kinetic, total)  I am basically asking -- **How does the energy of each piece of the system change when you mix them together?**
 
+
+Remember that a chemical bond is like a spring connecting two atoms together.  When a chemical change occurs, some bonds are broken and/or new ones are formed.  The new bonds usually do not have the same springiness.  A tighter bond is one with higher potential energy, and therefore lower kinetic energy (the energy is stored in the bond, rather than in the motion of the particles).  In a looser bond / looser spring, the bond has lower potential energy and therefore higher kinetic energy (the energy is stored in the motion of the particles, rather than in the bonds).
+
+Melting ice involves breaking apart moderately weak bonds / attractions between different $H_2O$ molecules. 
+
+**If a bond is broken, what does this imply about the potential energy of the $H_2O$ molecules that started as ice before and after the melting?**
+
+**What does this imply about the potential energy of $H_2O$ molecules that start as water before and after freezing?**
+
+**What does this imply about the kinetic energy of the $H_2O$ molecules?**
+
+
+========
+Homework
+========
+
+Do your notes!
 
 
 

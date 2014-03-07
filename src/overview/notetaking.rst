@@ -41,5 +41,5 @@ If you repeat that process, honestly, every day, you will turn yourself into a l
 
 Finally, when I grade the notes, I am looking for completion of the daily record and for thoughtful reflection in the summary.
 
-.. _coach: http://onemorewiggns.net/
+.. _coach: http://grantwiggins.wordpress.com/2011/09/25/insight-about-teaching-and-learning-from-soccer/
  
