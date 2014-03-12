@@ -2,7 +2,7 @@ S Week 1 - Monday
 #################
 
 :date: 2014-03-10
-:summary: Introduction to the spring term.  Our goal this week is to figure out what was really going on with the water-ice-salt mixtures. Reminder -- Tuesday schedule today: A,F,E does this Monday, G does this Tuesday. 
+:summary: Introduction to the spring term.  Our goal this week is to figure out what was really going on with the water-ice-salt mixtures. This lesson covers Monday through Wednesday. 
 :category: lessons
 :tags: spring, reactions, rates, phase change, energy
 
@@ -55,7 +55,7 @@ fully, the final temperature is ??  Actually, this one was quite confusing, as
 every group that investigated this process dealt with it in different ways.  It
 wasn't clear what the effect on temperature was, nor the effect on the freezing
 point, or the rate at which the ice melts.  This is further confused by the
-fact that we all know they use ice on the roads when it is cold to help deal
+fact that we all know they use salt on the roads when it is cold to help deal
 with ice to make it safer to drive.  There must be a reason for that, but some
 groups actually found that the presence of salt in the water caused the ice to
 remain *longer*.

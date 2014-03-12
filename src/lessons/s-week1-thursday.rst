@@ -100,13 +100,6 @@ start as water before and after freezing?**
 **What does this imply about the kinetic energy of the $H_2O$ molecules?**
 
 
-So what does the salt do?
--------------------------
-
-
-**Ask questions**
-
-
 ========
 Homework
 ========
