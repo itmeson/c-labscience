@@ -1,25 +1,24 @@
 Cleanup Checklist
 #################
 
-:date: 2014-03-14
+:date: 2014-03-01
 :category: overview
 :tags: overview
 
 
-Have you picked up your:
 
-Whiteboard?
------------
+Have you cleaned and put away the whiteboard?
+---------------------------------------------
 
-Pens?
------
+Put lab equipment away?
+-----------------------
 
-Lab equipment?
---------------
+Shared your notes?
+------------------
 
 Trash?
 ------
 
-Personal stuff?
----------------
+Picked up your personal stuff?
+------------------------------
  

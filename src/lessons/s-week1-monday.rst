@@ -66,7 +66,6 @@ remain *longer*.
 
 
 
-
 ==========
 What Next?
 ==========
@@ -137,9 +136,7 @@ What is it that the ice does, that is different from mixing with cool water?
    :scale: 25 %
    :alt: Reaction potential energy diagrams 
 
-   Reaction potential energies. One of these goes with reactions where the
-products are colder than the reactions, and the other is consistent with
-reactions where the products are warmer than the reactants.
+   Reaction potential energies. One of these goes with reactions where the products are colder than the reactions, and the other is consistent with reactions where the products are warmer than the reactants.
 
 **Which of these do you think matches the process of melting the ice? Why?**
 
