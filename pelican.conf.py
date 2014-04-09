@@ -26,3 +26,6 @@ TAG_URL = 'tag/{slug}.html'
 
 PLUGIN_PATH = '../../../pelican-plugins' 
 PLUGINS = ['sitemap', 'create_calendar', 'ical', 'gallery', 'pelican-vimeo', 'pelican-youtube']
+
+
+CC_LICENSE = "CC-BY"
