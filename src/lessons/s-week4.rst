@@ -1,5 +1,5 @@
-Spring - Week 4
-###############
+Week 4 Materials
+################
 
 :date: 2014-04-14
 :summary: Design and initial testing of the Rube Goldberg devices

@@ -1,5 +1,5 @@
-Spring - Week 2
-###############
+Week 2 Materials
+################
 
 :date: 2014-03-16
 :summary: Figuring out the details on the potential energy curves of reactions and phase changes.  Starting to look at simple machines. 

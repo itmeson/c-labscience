@@ -1,5 +1,5 @@
-Spring Week 3 Notes
-###################
+HW: Week 3 Notes
+################
 
 :date: 2014-03-24
 :summary: Your notes document for week 3 can be found in your shared items folder in Drive, with the title "YourBlock.YourName.week3notes".

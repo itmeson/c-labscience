@@ -1,4 +1,4 @@
-Spring - Week 5
+Week 5 Materials
 ################
 
 :date: 2014-04-21
@@ -12,8 +12,6 @@ Spring - Week 5
 Day 1
 =====
 
-
-**QWarmup**:  Compare the forces on the two ends of the rope -- will A be bigger than B, B bigger than A, or will they be the same?  What is the tradeoff?
 
 **BUILD**  This is the day to get things done, you should be close to wrapping up the whole thing and just working on fiddling with the setup to get it all perfect today and tomorrow.  We will be showcasing your devices on Day 3 and 4 this week.  As you get close, start filming your trial runs so you have some evidence of your progression (in case the showcase doesn't go so well). 
 
@@ -43,7 +41,19 @@ Day 3
 Day 4
 =====
 
-**OVERFLOW Testing DAY**: 10 minutes setup time for remaining groups, then 10 minute slots to attempt two trial runs.
+**Debriefing Day**:
+
+1. How many *unique* elements did you really have in your project? (How many things were truly different?)
+
+2. What was/were the sticking points -- the elements that just wouldn't work reliably?  How might you redesign those one or two elements to make the entire device more reliable?
+
+3. What would you do differently if you had to do it again? Let's stipulate that we would always like to have more *time*, but every real project has a deadline and it's never enough, so what other things could you do differenly (in the process, in the design itself, in the construction, etc.)
+
+4. What were you *missing* that you needed?  What resources were lacking, and which were just right?
+
+
+The report
+----------
 
 
 

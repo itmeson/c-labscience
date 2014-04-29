@@ -1,5 +1,5 @@
-Spring Week 4 Notes
-###################
+HW: Week 4 Notes
+################
 
 :date: 2014-04-14
 :summary: Your notes document for week 4 can be found in your shared items folder in Drive, with the title "YourBlock.YourName.week4notes".

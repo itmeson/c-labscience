@@ -1,5 +1,5 @@
-Spring Quiz 2 
-#############
+Quiz 2 
+######
 
 :date: 2014-03-20
 :category: quizzes
@@ -8,7 +8,7 @@ Spring Quiz 2
 
 
 .. figure:: http://markbetnel.com/courses/labscience/images/phase-change-PE.jpg
-   :scale: 25%
+   :scale: 10%
    :alt: Correct potential energy curve for phase changes of water
 
 

@@ -1,5 +1,5 @@
-Spring - Week 3
-###############
+Week 3 Materials
+################
 
 :date: 2014-03-24
 :summary: Where does the advantage of using a lever come from?

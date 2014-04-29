@@ -1,5 +1,5 @@
-Spring Week 1 Notes
-###################
+HW: Week 1 Notes
+################
 
 :date: 2014-03-10
 :summary: Your notes document for week 1 can be found in your shared items folder in Drive, with the title "YourBlock.YourName.week1notes".

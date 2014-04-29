@@ -1,5 +1,5 @@
-Spring - Week 1 
-###############
+Week 1 Materials 
+################
 
 :date: 2014-03-10
 :summary: Introduction to the spring term.  Our goal this week is to figure out what was really going on with the water-ice-salt mixtures. 

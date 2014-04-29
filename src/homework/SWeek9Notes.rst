@@ -1,5 +1,5 @@
-Spring Week 9 Notes
-###################
+HW: Week 9 Notes
+################
 
 :date: 2014-05-18
 :summary: Your notes document for week 9 can be found in your shared items folder in Drive, with the title "YourBlock.YourName.week9notes".

@@ -1,5 +1,5 @@
-Spring Week 8 Notes
-###################
+HW: Week 8 Notes
+################
 
 :date: 2014-05-11
 :summary: Your notes document for week 8 can be found in your shared items folder in Drive, with the title "YourBlock.YourName.week8notes".

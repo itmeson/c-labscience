@@ -1,5 +1,5 @@
-Spring Quiz 3 
-#############
+Quiz 3 
+######
 
 :date: 2014-03-27
 :category: quizzes

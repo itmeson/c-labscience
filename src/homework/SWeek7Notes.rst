@@ -1,5 +1,5 @@
-Spring Week 7 Notes
-###################
+HW: Week 7 Notes
+################
 
 :date: 2014-05-04
 :summary: Your notes document for week 7 can be found in your shared items folder in Drive, with the title "YourBlock.YourName.week7notes".

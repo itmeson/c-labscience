@@ -1,5 +1,5 @@
-Spring Week 6 Notes
-###################
+HW: Week 6 Notes
+################
 
 :date: 2014-04-28
 :summary: Your notes document for week 6 can be found in your shared items folder in Drive, with the title "YourBlock.YourName.week6notes".

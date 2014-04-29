@@ -1,5 +1,5 @@
-Spring Week 2 Notes
-###################
+HW: Week 2 Notes
+################
 
 :date: 2014-03-17
 :summary: Your notes document for week 2 can be found in your shared items folder in Drive, with the title "YourBlock.YourName.week2notes".

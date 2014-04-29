@@ -14,7 +14,8 @@ DISQUS_SITENAME = 'labscience'
 # Blogroll
 LINKS =  (
     ('PhET sims', 'http://phet.colorado.edu'),
-    ('DESMOS', 'http://www.desmos.com')	
+    ('DESMOS', 'http://www.desmos.com'),
+    ('NPR Science', 'http://www.npr.org/sections/science/')	
         )
 
 
