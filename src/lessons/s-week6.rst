@@ -101,7 +101,7 @@ Day 3
 Submit your feedback through the `form <https://docs.google.com/a/seattleacademy.org/forms/d/1Eh7F0n84HLycMQwG-FdVCEObvHELhW2CukJVdk1K3Po/viewform?usp=send_form>`_. -- you must submit once for each member of your group.
 
 
-**Energy**:
+**Energy**:  Which of the two companies `described here <energy-lamps.html>`_ would you invest in?  Why?  
 
 
 =====
@@ -119,5 +119,5 @@ Introduce next project.
 
 .. _yesterday: s-week-1-monday.html 
 .. _tomorrow: s-week1-wednesday.html
-
+.. _energy: energy-lamps.html
    
