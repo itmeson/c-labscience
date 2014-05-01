@@ -58,7 +58,33 @@ paper, take good photos of them to put in the doc).
 Day 2
 =====
 
-**QWarmup**: Measure the force to lift an object straight up and the force to lift it with a lever.  Figure out how high the object gets in each case, and find the product of the  Force times the distance the object moves.
+
+
+**Self and peer reflection**: Consider the following questions as you reflect on your own contribution to your group:
+
+
+1.  Did I do a fair share of the work of the project?
+2.  Was the quality of my work high?
+3.  Did I support/encourage my teammates?  Did I take action that affected my team without consulting them?
+4.  Did I notice what my teammates were doing and whether they were on track?
+5.  Did I demand high quality work?
+6.  Did I have the knowledge or skills to contribue successfully?  Did I acquire knowledge or skills to contribute successfully?
+
+Submit your feedback through the `form <https://docs.google.com/a/seattleacademy.org/forms/d/1Eh7F0n84HLycMQwG-FdVCEObvHELhW2CukJVdk1K3Po/viewform?usp=send_form>`_. -- you must submit once for each member of your group.
+
+=====
+Day 3
+=====
+
+
+**Energy**:  Which of the two companies `described here <energy-lamps.html>`_ would you invest in?  Why?  
+
+
+=====
+Day 4
+=====
+
+`Quiz 6 <quiz-6.html>`_
 
 Force times distance is energy.  You have the tradeoff because you can't change how much energy is required.
 
@@ -83,36 +109,6 @@ Read a book?
 Move your car?
 
 
-
-=====
-Day 3
-=====
-
-**Self and peer reflection**: Consider the following questions as you reflect on your own contribution to your group:
-
-
-1.  Did I do a fair share of the work of the project?
-2.  Was the quality of my work high?
-3.  Did I support/encourage my teammates?  Did I take action that affected my team without consulting them?
-4.  Did I notice what my teammates were doing and whether they were on track?
-5.  Did I demand high quality work?
-6.  Did I have the knowledge or skills to contribue successfully?  Did I acquire knowledge or skills to contribute successfully?
-
-Submit your feedback through the `form <https://docs.google.com/a/seattleacademy.org/forms/d/1Eh7F0n84HLycMQwG-FdVCEObvHELhW2CukJVdk1K3Po/viewform?usp=send_form>`_. -- you must submit once for each member of your group.
-
-
-**Energy**:  Which of the two companies `described here <energy-lamps.html>`_ would you invest in?  Why?  
-
-
-=====
-Day 4
-=====
-
-Quiz.
-
-Energy questions.
-
-Introduce next project.
 
 
 
