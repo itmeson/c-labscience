@@ -2,15 +2,26 @@ Week 9 Materials
 ################
 
 :date: 2014-05-19
-:summary: 
+:summary: Comparing different energy sources on price, impact, sustainability
 :category: lessons
-:tags: 
-:status: draft
+:tags: energy, comparison, renewable
 
 
 =====
 Day 1
 =====
+
+Hydroelectric vs. coal vs. nuclear vs. solar vs. wind
+
+Price per joule
+Price per kilogram
+Environmental impact
+Renewability?
+Sustainability?
+
+
+
+
 
 =====
 Day 2
