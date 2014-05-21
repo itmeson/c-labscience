@@ -4,22 +4,26 @@ Week 1 Materials
 :date: 2014-09-02
 :summary: What this class is about
 :category: lessons
-:tags: fall, science, measurement, overview
+:tags: fall, science, measurement, overview, motion
 
 =====
 Day 1
 =====
 
- 1. How much water is this? (Break into groups of 2 or 3, take water sample, and come up with at least two ways to measure how much is there.  Prepare a whiteboardthat explains your method, and be prepared to present to the class.)
- 2. Do sign-in on smartboard
- 3. Fill out index card:
+http://christopherdanielson.wordpress.com/2013/04/05/measurement-explored/#comments
+
+ 1. The measurement game
+
+ 2. Fill out index card:
     Name
     Previous school
     Favorite subject
     Burning question
     Anything you want me to know about you
- 4. About the class:  This is "Act Like a Scientist Class".  It's all about asking questions and figuring out how to go about answering them.  While it's nice to get the answers right, that is only a secondary concern here, and we really cherish mistakes because they help us grow more than anything else.
- 5. So what are some of the lessons learned from measuring the water?
+
+ 3. About the class:  This is "Act Like a Scientist Class".  It's all about asking questions and figuring out how to go about answering them.  While it's nice to get the answers right, that is only a secondary concern here, and we really cherish mistakes because they help us grow more than anything else.
+
+ 4. So what are some of the lessons learned from the measurement game?
     different ways to do it
     can we convert between different ways?
     which way is "best"?
@@ -31,9 +35,9 @@ Day 2
 =====
 
 
-1. Measure everything in the room.  Come up with multiple ways to measure the same thing, and devise ways to reliably convert between the different ways to measure.
+ 1. Course mechanics:  How to take notes.
 
-2. Discussion:  What are the categories of measurement that you've employed?
+ 2. Discussion:  What are the categories of measurement that you've employed?
 
    time
    length
@@ -46,7 +50,7 @@ Day 2
    light
    ???
 
-3. What are the most important issues in making a "good" measurement?
+ 3. What are the most important issues in making a "good" measurement?
 
    same every time
    the "right" result
@@ -54,19 +58,13 @@ Day 2
    cheap
    useful
    presentable /understandable
-
+   comparable
 
 =====
 Day 3 
 =====
 
-1. Hand out graph examples -- in groups of two or three, interpret the graphs, draw out explanations of the story on whiteboard, and act them out for the class.
+ 1. Course mechanics: first quiz
 
-2. Construct new graphs with at least two "characters", hand them to another group to decipher and act out.
+ 2. More measurement issues.  Combining measurements. 
 
-3. Do the first exercise of the Function Carnival_  (input the code b6wz when prompted)
-
-
-1. Find an example of a graphic (online or elsewhere) that communicates something complex.  Post the image and a question about it on the twitter feed.
-
-.. _Carnival: http://class.desmos.com
