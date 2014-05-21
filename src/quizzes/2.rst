@@ -1,10 +1,10 @@
 Quiz 2 
 ######
 
-:date: 2013-09-05 
+:date: 2013-09-12 
 :category: quizzes
 :tags: measurement, rates
-
+:status: draft
 
 1. You measure the length of the classroom using the feet of two different students.  One of them measures the length to be 30 "feet", the other 26 "feet".  Explain how to convert between measurements provided by one or the other. Which student has bigger feet?
   

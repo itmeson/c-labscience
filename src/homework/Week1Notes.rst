@@ -1,16 +1,15 @@
-Week 1 Notes
-###################
+HW: Week 1 Notes
+################
 
-:date: 2014-03-10
-:summary: Your notes document for week 1 can be found in your shared items folder in Drive, with the title "YourBlock.YourName.week1notes".
+:date: 2014-09-02
+:summary: How to take good notes 
 :tags: homework, notes
-:duedate: 2014-03-17
+:duedate: 2014-09-08
 
-One day each week you will be the notetaker -- on that day you should focus on recording what we do in class, the questions that are asked, the work you do to figure out the questions, and the answers.  Then you should share these notes with the rest of your group.
+Notetaking is a critical element of doing science -- we cannot learn from what we have observed if we don't have an accurate record of what we saw, but if everyone is just recording what we see, no one is doing anything.  So only one person each day will be assigned to take notes on what occurred -- this will be their only job, and they will be required to share those notes with everyone else on the team.  
 
-On the other days, when you are not the notetaker, you should take the notes copy provided by your group member and paste them into your own notes document.  Then you should edit them to reflect your own understanding of what happened, send comments back to your notetaker if they missed anything important, and then write a good summary of the most important items from the day.  A good summary should answer the questions: *What* did you do?  *Why* did you do it?  What can you now do that you couldn't before?  What will you change tomorrow to understand better?
+When you are not the notetaker, you should be working to figure things out, and to help the notetaker know what to write down to capture what occurred.  After you get their copy of the notes for the day, you should write a summary of what the point of the day's activities was.
 
-Your edited copy of the notes from all four class meetings in the week is due by Sunday evening, and it will be graded the following Monday.
-
+At the end of the week, you will have four days' worth of notes, which I will grade on the following Monday.
 
 
