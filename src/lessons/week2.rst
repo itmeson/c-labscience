@@ -27,17 +27,25 @@ Day 2
  2. Measuring speed in different units
 
  3. Graphical relationship between distance and speed (integrating, differentiating)
-
- 4. 
+ 
 
 =====
 Day 3
 =====
+
+ 1. The slow runner
+
+ 2. Measuring speed from a video
+
+ 3. Graphing real data
 
 
 =====
 Day 4
 =====
 
+ 1. Quiz 
+
+ 2. 
 
    
