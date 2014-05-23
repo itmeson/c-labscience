@@ -27,18 +27,24 @@ Sustainability?
 Day 2
 =====
 
-
+Finish finding out the details of your energy source.
 
 =====
 Day 3
 =====
 
+Short presentations on each energy source.
 
 =====
 Day 4
 =====
 
 **QUIZ**!
+
+Discussion of `scientific process <http://www.npr.org/2014/05/20/314239930/big-bangs-afterglow-two-scientists-recall-their-big-discovery>`_
+
+
+
 
 
 
