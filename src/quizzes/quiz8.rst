@@ -3,8 +3,12 @@ Quiz 8
 
 :date: 2014-05-16 
 :category: quizzes
-:tags: energy, rate, power
+:tags: energy, rate, power, M6
 :summary: Quiz 8 is about the comparison of different amounts of energy in different units
+
+
+
+**M6**
 
 .. raw:: html
 
