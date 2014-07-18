@@ -6,7 +6,7 @@ BASEDIR=$(PWD)
 INPUTDIR=$(BASEDIR)/src
 OUTPUTDIR=$(BASEDIR)/fall2014
 CONFFILE=$(BASEDIR)/pelican.conf.py
-THEME=pelican-courseboot
+THEME=pelican-elegant-1.3
 
 
 SSH_HOST=web 
