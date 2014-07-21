@@ -10,6 +10,8 @@ GOOGLE_ANALYTICS = "UA-20141547-1"
 DEFAULT_LANG='en'
 
 DISQUS_SITENAME = 'betnelcourses'
+COMMENTS_INTRO = "Is something unclear? Leave a comment below:"
+
 
 # Blogroll
 LINKS =  (
@@ -26,7 +28,7 @@ TAG_SAVE_AS = 'tag/{slug}.html'
 TAG_URL = 'tag/{slug}.html'    
 
 PLUGIN_PATH = '../../../pelican-plugins' 
-PLUGINS = ['create_calendar', 'ical', 'gallery', 'pelican-vimeo', 'tipue-search']
+PLUGINS = ['create_calendar', 'ical', 'gallery', 'pelican_vimeo', 'tipue_search', 'pelican-youtube']
 
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
 

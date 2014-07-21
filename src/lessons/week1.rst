@@ -10,9 +10,17 @@ Week 1 Materials
 Day 1
 =====
 
-http://christopherdanielson.wordpress.com/2013/04/05/measurement-explored/#comments
 
- 1. The measurement game
+1. The measurement game
+  
+   * You are going to be given a wooden dowel, which has been cut to a particular length. This dowel is your measuring device, with which you will measure a number of  objects in the room.
+   * First name your measuring unit.  (As in "Stick", so you can say "the whiteboard is 21 sticks wide")  Choose a better aname than "stick".
+   * Measure the height of someone in your group in sticks
+   * You will need to construct auxiliary measuring devices to complete this task accurately. So you can subdivide for small objects, and so you can scale up for large ones)
+   * Make a partitioned unit derived from your unit
+   * Make a composed unit from your unit
+   * Measure: your team whiteboard (length and width), the room itself (length, width, and height), and a paperclip (length and width).
+   * Make a table with all of your measurements, expressed in original units, in partitioned units, and in composed units.  Put it into a google doc spreadsheet which I will share with you
 
  2. Fill out index card:
     Name
