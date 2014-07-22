@@ -1,10 +1,10 @@
-Week  
-########
+Measurement  
+###########
 
-:date: 2014-09
+:date: 2014-09-01
 :summary: 
 :category: lessons
-:tags: 
+:tags: measurement, instructor 
 :status: draft
 
 
@@ -17,12 +17,19 @@ are chosen to provide a useful combination of compatability and
 incompatability.
 
 9 inches
+
 15 inches
+
 10 inches
+
 2 inches
+
 20
+
 24
+
 7
+
 11
 
 But-and this is important-THESE LENGTHS ARE NEVER SPOKEN OF! You will never
@@ -104,7 +111,7 @@ generated earlier and discuss reasons for discrepancies.
 
 We write about these reflection questions:
 
- How do your three units compare to a standard measurement system?
+How do your three units compare to a standard measurement system?
 How is using someone else’s units like (or unlike) converting between standard and metric systems?
 How did your choices for partitioning, composing and naming support or impede your work?
 What do you need in order to be able to do these computations on your own?
