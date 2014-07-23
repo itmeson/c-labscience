@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u"Mark Betnel"
-SITENAME = u"Lab Science"
+SITENAME = u"(Old) Lab Science (2013-2014)"
 SITEURL = 'http://markbetnel.com/courses/labscience'
 
 TIMEZONE = 'America/Los_Angeles'
