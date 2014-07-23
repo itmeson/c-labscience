@@ -18,7 +18,7 @@ Day 1
   
    * You are going to be given a wooden dowel, which has been cut to a particular length. This dowel is your measuring device, with which you will measure a number of  objects in the room.
    * First name your measuring unit.  (As in "Stick", so you can say "the whiteboard is 21 sticks wide")  Choose a better aname than "stick".
-   * Measure the height of someone in your group in sticks
+   * Measure the height of each person in your group in your unit
    * You will need to construct auxiliary measuring devices to complete this task accurately. So you can subdivide for small objects, and so you can scale up for large ones
    * Make a partitioned unit derived from your unit
    * Make a composed unit from your unit
@@ -53,9 +53,30 @@ daily so you will all have a chance at each job in each group you are in.  Your
 Dojo, similar to how Scott used it, to keep track of this.
 
 
-2. Discussion: So far we've only measured *lengths*.  What are some other kinds of quantity that we might measure?
- 
-3. What are the most important issues in making a "good" measurement?
+2. Discussion: Within your groups there are 5 to 6 different units defined, which we've put in the google doc table.
+
+   * What do you notice about this table?
+   * What do you wonder?  (What questions can we answer about it?)
+
+3. Prepare instructions for your unit -- explain how to make your composed unit and your partitioned unit from the original.  Pass these to another group.
+
+4. In each group, using the unit that has been passed to you:
+
+   * express relationships between your original units and these new ones
+   * For each of the things we measured yesterday, make a prediction about whether the measurement in the new units will have a greater or lesser value  (DO NOT COMPUTE OR MEASURE -- JUST PREDICT -- WRITE DOWN WHAT YOU THINK AND WHY)
+   * Compute your height using the new units (for each person in your group), and compute at least 6 of the measurements in the table
+
+5.  We'll put all these new measurements in a table, and compare to the
+measurements the original groups got with their units.
+
+6. Reflection:
+
+   * How do your three units compare to a standard measurement system?
+   * How is using someone else's units like (or unlike) converting between standard and metric systems?
+   * How did your choices for partitioning, composing, and naming make your work easier or harder?
+   * What do you need in order to be able to do these computations on your own?
+
+
 
 
 =====
@@ -64,11 +85,22 @@ Day 3
 
 1. Course mechanics: first quiz
 
-Quizzes are about getting information from you about what you understand and don't understand, and giving
-information back to you about what you need to still work on.  If you don't get something on the first try,
-you should *try again*.  The grading system is setup to give you incentives to keep trying until you
-get it.  Quizzes will usually be in class on Fridays, often using google forms, and they will be tagged 
-to show the specific skills that I am looking for that day.
+Quizzes are about getting information from you about what you understand and
+don't understand, and giving information back to you about what you need to
+still work on.  If you don't get something on the first try, you should *try
+again*.  The grading system is setup to give you incentives to keep trying
+until you get it.  Quizzes will usually be in class on Fridays, often using
+google forms, and they will be tagged to show the specific skills that I am
+looking for that day.
 
-2. More measurement issues.  Combining measurements. 
+2. So far we've only measured *lengths*.  What are some other kinds of quantity
+that we might measure?
+
+
+3. Fraction and conversion review.  Prepare instructions to yourself that
+explain how to convert between different units
+ 
+
+4. What are the most important issues in making a "good" measurement?
+
 
