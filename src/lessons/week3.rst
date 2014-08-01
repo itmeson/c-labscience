@@ -1,5 +1,5 @@
-Week 3  
-######
+Week 3 Materials 
+################
 
 :date: 2014-09-15
 :summary: Figuring out the Slow Runner.  Precision vs. accuracy. Scientific notation
