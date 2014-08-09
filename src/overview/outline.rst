@@ -55,14 +55,4 @@ Spring
 
  III. Energy technologies and resources
 
-team collaboration
-graphing and mathematical analysis
-need to work with larger data sets
-
-better integration with math curriculum?
-
-students need a much stronger foundation in creating and utilizing graphs
-	one approach represent data in 4 different ways
-
-
 

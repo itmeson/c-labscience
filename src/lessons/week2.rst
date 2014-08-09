@@ -71,16 +71,24 @@ Day 3
 	:align: center
 
 
- 4. Unit conversion.  
+ 4. Unit conversion. Write instructions to yourself on how to convert from one unit to another.  There will be a quiz on this tomorrow, and you will be able to use your notes.
+
+ 5. What are the most important issues in making *good* measurements? 
 
 
 =====
 Day 4
 =====
 
- 1. Quiz on converting units.  You can use a calculator and google.
+ 1. First quiz on converting units.  You can use a calculator and google.
 
-
+ Quizzes are about getting information from you about what you understand and
+ don't understand, and giving information back to you about what you need to
+ still work on.  If you don't get something on the first try, you should *try
+ again*.  The grading system is setup to give you incentives to keep trying
+ until you get it.  Quizzes will usually be in class on Fridays, often using
+ google forms, and they will be tagged to show the specific skills that I am
+ looking for that day.
    
 
 .. _article: https://www.sciencenews.org/blog/growth-curve/giving-kids-spoonful-medicine-not-what-doctor-ordered

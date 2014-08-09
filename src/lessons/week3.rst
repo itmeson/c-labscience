@@ -2,7 +2,7 @@ Week 3 Materials
 ################
 
 :date: 2014-09-15
-:summary: Figuring out the Slow Runner.  Precision vs. accuracy. Scientific notation
+:summary: Measuring speed.  Precision vs. accuracy. Scientific notation
 :category: lessons
 :tags: speed, motion, precision, accuracy, scientific notation
 
@@ -15,7 +15,7 @@ Day 1
 
  2. Precision and accuracy
 
- 3. The Slow Runner
+ 3. Measuring speed, representing speed, using speed to figure stuff out
 
 =====
 Day 2
@@ -23,7 +23,7 @@ Day 2
 
  1. Course mechanics: Grading the notes
 
- 2. The Slow Runner
+ 2. Measuring speed
 
  3. Precision and accuracy: significant figures
 
@@ -32,16 +32,13 @@ Day 2
 Day 3
 =====
 
- 1. Course Mechanics, presentation: The Slow Runner
 
 
 =====
 Day 4
 =====
 
- 1. Quiz!  Unit conversion
-
- 2. Graphing
+ 1. Quiz!  Unit conversion and speed
 
 
 

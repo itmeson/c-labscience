@@ -32,6 +32,8 @@ Day 1
     * which way is "best"?
     * how can we tell what is best?  What does it mean for a measurement to be "better"?
 
+ 4. Informational survey, on google forms.
+
 
 =====
 Day 2 
@@ -76,26 +78,5 @@ Dojo, similar to how Scott used it, to keep track of this.
     * What do you need in order to be able to do these computations on your own?
 
 
-
-
-=====
-Day 3 
-=====
-
- 1. Course mechanics: first quiz
-
- Quizzes are about getting information from you about what you understand and
- don't understand, and giving information back to you about what you need to
- still work on.  If you don't get something on the first try, you should *try
- again*.  The grading system is setup to give you incentives to keep trying
- until you get it.  Quizzes will usually be in class on Fridays, often using
- google forms, and they will be tagged to show the specific skills that I am
- looking for that day.
-
- 2. So far we've only measured *lengths*.  What are some other kinds of quantity that we might measure?
-
- 3. Fraction and conversion review.  Prepare instructions to yourself that explain how to convert between different units
- 
- 4. What are the most important issues in making a "good" measurement?
 
 
