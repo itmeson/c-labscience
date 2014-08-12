@@ -4,7 +4,7 @@ PELICANOPTS=None
 
 BASEDIR=$(PWD)
 INPUTDIR=$(BASEDIR)/src
-OUTPUTDIR=$(BASEDIR)/output
+OUTPUTDIR=$(BASEDIR)/2013-2014
 CONFFILE=$(BASEDIR)/pelican.conf.py
 THEME=pelican-courseboot
 
