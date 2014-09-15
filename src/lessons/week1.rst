@@ -4,13 +4,15 @@ Week 1 Materials
 :date: 2014-09-02
 :summary: What this class is about
 :category: lessons
-:tags: fall, science, measurement, overview, motion
+:tags: fall, science, measurement, overview, units
+
+
+
+
 
 =====
 Day 1
 =====
-
-
  
  1. About the class:  This is "Act Like a Scientist Class".  It's all about asking questions and figuring out how to go about answering them, by any means necessary.  The first thing you need, though, to be able to notice and ask interesting questions, is to measure. 
 
@@ -61,21 +63,6 @@ Dojo, similar to how Scott used it, to keep track of this.
     * What do you wonder?  (What questions can we answer about it?)
 
  3. Prepare instructions for your unit -- explain how to make your composed unit and your partitioned unit from the original.  Pass these to another group.
-
- 4. In each group, using the unit that has been passed to you:
-
-    * express relationships between your original units and these new ones
-    * For each of the things we measured yesterday, make a prediction about whether the measurement in the new units will have a greater or lesser value  (DO NOT COMPUTE OR MEASURE -- JUST PREDICT -- WRITE DOWN WHAT YOU THINK AND WHY)
-    * Compute your height using the new units (for each person in your group), and compute at least 6 of the measurements in the table
-
- 5.  We'll put all these new measurements in a table, and compare to the measurements the original groups got with their units.
-
- 6. Reflection:
-
-    * How do your three units compare to a standard measurement system?
-    * How is using someone else's units like (or unlike) converting between standard and metric systems?
-    * How did your choices for partitioning, composing, and naming make your work easier or harder?
-    * What do you need in order to be able to do these computations on your own?
 
 
 
