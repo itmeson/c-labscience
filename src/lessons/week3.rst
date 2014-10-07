@@ -4,7 +4,7 @@ Week 3 Materials
 :date: 2014-09-15
 :summary: Measuring volumes and mass.  Precision vs. accuracy. Scientific notation
 :category: lessons
-:tags: volume, mass, speed, motion, precision, accuracy, scientific notation
+:tags: volume, mass, motion, precision, accuracy, scientific notation
 
 
 =====
@@ -39,7 +39,7 @@ Day 2
 
  1. Course mechanics: Quiz grades and retakes
 
- 2. Finishing the measurements. Beginning a discussion of precision, accuracy, and significant figures.
+ 2. Continue the Deadly Spoons! Beginning a discussion of precision, accuracy, and significant figures.
 
 
 
