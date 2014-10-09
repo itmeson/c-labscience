@@ -1,15 +1,22 @@
 Quiz 2 
 ######
 
-:date: 2013-09-12 
+:date: 2014-09-12
+:summary: Units level II and III quiz 
 :category: quizzes
-:tags: measurement, rates
-:status: draft
+:tags: measurement, rates, conversion
+:duedate: 2014-09-12
 
-1. You measure the length of the classroom using the feet of two different students.  One of them measures the length to be 30 "feet", the other 26 "feet".  Explain how to convert between measurements provided by one or the other. Which student has bigger feet?
-  
-2. What is the conversion factor between student B's feet and your feet?
+(you may use a calculator, but you must show all calculations on the paper)
 
-3. If student B walks down to Pike Place, counting 4130 "feet", how many steps would it take you?
- 
- 
+
+ 1. There are 6 feet in a fathom.  How many fathoms are there in 1217 feet?
+
+ 2. How many feet are there in 95.5 fathoms?
+
+ 3. How many inches are in 20 centimeters?  (One inch is 2.54 centimeters)
+
+ 4. How many centimeters in 45.2 inches?
+
+ 5. An Olympic sprinter’s top speed is about 12 meters per second.  How fast is this in miler per hour?  How does this compare to typical driving speeds in a car?
+
