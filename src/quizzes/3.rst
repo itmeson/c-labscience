@@ -1,15 +1,14 @@
 Quiz 3 
 ######
 
-:date: 2014-09-19 
+:date: 2014-10-10
 :category: quizzes
-:tags: units
-:status: draft
+:tags: units, significant digits, precision, scientific notation
+:summary: Quiz 3, on units, significant digits, precision, and scientific notation will be on October 10
+:duedate: 2014-10-10
 
 
-1. Convert 
-  
+.. raw:: html
 
-2.
- 
+     <iframe src="https://docs.google.com/a/seattleacademy.org/forms/d/12jO1WRGCz_maJN0KVb-9pJGKOxBhftXO8gjX0rAWkFQ/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
  
