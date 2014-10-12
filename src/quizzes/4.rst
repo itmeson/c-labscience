@@ -1,0 +1,11 @@
+Quiz 4 
+######
+
+:date: 2014-10-15 
+:category: quizzes
+:tags: significant digits, precision, scientific notation
+:duedate: 2014-10-15
+
+
+Quiz 4 will be during the double block this week.
+ 
