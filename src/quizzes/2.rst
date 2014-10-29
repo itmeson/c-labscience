@@ -1,11 +1,11 @@
-Quiz 2 
-######
+Quiz 2 - Week 3 
+###############
 
-:date: 2014-09-12
+:date: 2014-09-19
 :summary: Units level II and III quiz 
 :category: quizzes
 :tags: measurement, rates, conversion
-:duedate: 2014-09-12
+:duedate: 2014-09-19
 
 (you may use a calculator, but you must show all calculations on the paper)
 
