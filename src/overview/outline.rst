@@ -6,39 +6,22 @@ Outline
 :tags: outline, topics, fall
 
 
-Fall
-----
-
- I. Measurement
-
-    * Unit systems / conversion
-    * Measuring tools
-    * Precision, accuracy, uncertainty
-    * length, mass, time, speed, volume, area, temperature, etc.
-    * associating units with dimensions
-    * repeated measurements (averaging)
-    * scale, significant figures, order of magnitude estimation
-
- II. Experiment design
-
-   * Graphing
-   * Hypothesis testing
-
-
- III. Large data sets
-
-   * Simple stats
-   * Reliability issues
 
 Winter
 ------
 
- I. Conceptual Physics
+ I. Large data sets
+
+    * graphing
+    * exploration
+    * hypothesis testing
+
+
+ II. Conceptual Physics
    
-    * Describing and measuring motion
-    * Momentum
-    * Buoyancy
-    * Energy
+    * Describing and measuring motion and speed
+    * Momentum and conservation laws
+    * Energy and conservation laws
 
 
 
