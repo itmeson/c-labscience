@@ -37,15 +37,27 @@ And here's a sample graph:
 Day 2
 =====
 
+Veteran's Day Holiday
 
 =====
 Day 3
 =====
 
+Today we continued working on the questions about the 1880 - 2006 global climate data set.  Your notes should reflect the topics you were working on today.
+
 
 =====
 Day 4
 =====
+
+Quiz6Week11_ covering significant digits, interpreting graphs, and using slopes and rates to make predictions.  The quiz took the whole class period.
+
+
+.. _Quiz6Week11: quiz-6-week-11.html
+
+
+
+
 
 
    
