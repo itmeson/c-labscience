@@ -27,12 +27,11 @@ Write the following in scientific notation:
 
 Write the following in standard form:
 
-6. $3.7 \\cdot 10^{-5}$
+6. :math:`3.7 \cdot 10^{-5}`
 
-7. $9.801 \\cdot 10^6$
+7. :math:`9.801 \cdot 10^6`
 
-8. $6.50 \\cdot 10^{-3}$
-
+8. :math:`6.50 \cdot 10^{-3}`
 
  A gasoline pump can pump gasoline at a rate of 6.5 gallons per minute.  You have a European car whose gas tank is labeled in Liters.  How long (in seconds) will it take to pump enough gas to fill the 51 Liter tank? (assuming it was empty to begin with)  How much will the gas cost if the price is $3.60 per gallon?
 
