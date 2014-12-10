@@ -71,7 +71,7 @@ Double Block
 Day 4
 =====
 
- 1. `Quiz 1 <quiz-1-week-1.html>`_
+ 1. `Quiz 1 <winter-week-1-quiz-1.html>`_
 
 
 
