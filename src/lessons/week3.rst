@@ -7,9 +7,9 @@ Week 3 Materials
 :tags: rain, data, motion, speed, acceleration
 
 
-=====
-Day 1
-=====
+===========
+Day 1, 2, 3
+===========
 
 1. Rain gauge data.  Your objective is to answer at least two interesting questions about the rain data set. You will be presenting this work to the class in a short informal presentation during the double block this week.  Focus on interesting insights either about the rainfall or about what the data reveals about our habits in recording the rainfall.
 
