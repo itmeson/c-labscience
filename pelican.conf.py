@@ -3,7 +3,7 @@
 
 AUTHOR = u"Mark Betnel"
 SITENAME = u"Lab Science 2014-2015"
-SITEURL = 'http://markbetnel.com/courses/labscience/base'
+SITEURL = 'http://markbetnel.com/courses/labscience/s2015'
 
 TIMEZONE = 'America/Los_Angeles'
 GOOGLE_ANALYTICS = "UA-20141547-1"
