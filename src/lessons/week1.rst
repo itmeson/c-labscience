@@ -85,9 +85,13 @@ Day 3
 
    g.  Open up the Skate Park demo again, and use the 3rd track in the Intro section.  What do you have to do so the movement of the skater is a good analogy for the movement of the particle in the other simulation?
 
+ 8. Quiz 1
+
+
+
 =====
 Day 4
 =====
 
- 1. Quiz 1
+ The 2nd Health Fair is today
    
