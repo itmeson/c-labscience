@@ -35,19 +35,34 @@ Make graphs for all of these measurements, and answer:
 
  How does volume affect the pressure?
 
-=====
-Day 2
-=====
+=======
+Day 2/3
+=======
+
+ 1. We've been manipulating or measuring 4 different variables in this simulation, Pressure, Temperature, Number of particles, and Volume (P, T, N, V).  Potentially each one of these could be proportional to each of the others:
+
++------------+------------------+-----------+
+| Claim      | Evidence         | Explain   |
++============+==================+===========+
+| P -> N     | graph is a line  | ?         |
++------------+------------------+-----------+
+| P ->       |                  |           |
++------------+------------------+-----------+
+|            |                  |           |
++------------+------------------+-----------+
+|            |                  |           |
++------------+------------------+-----------+
 
 
-=====
-Day 3
-=====
 
+ 2. Each one of these potential proportions constitutes a claim, ie, "I claim that :math:`P \propto N`, the Pressure is proportional to the Number of particles".  What is the evidence for this claim?  The graphs we've been making.  Every one of them gives a straight line relationship, as the number of particles increases, the pressure increases by the same proportion.  So :math:`P \propto N`.  Does this make sense?  Can you explain why that makes sense?  For every one of the possible proportionalities, write out the claim, write the evidence that supports or refutes it, and write an explanation of why it makes sense.
+
+ 
 
 =====
 Day 4
 =====
 
+ 1. Quiz 2 on gas property and temperature concepts.
 
    
