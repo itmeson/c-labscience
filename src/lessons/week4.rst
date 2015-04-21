@@ -1,7 +1,7 @@
 Week 4 Materials  
 ################
 
-:date: 2015-05-13
+:date: 2015-04-13
 :summary: Potential energy to kinetic energy and back. How do we do work? 
 :category: lessons
 :tags: work, energy, potential
@@ -27,13 +27,13 @@ Day 2
 Day 3
 =====
 
- 1. Simple machines
+ 1. Finishing the gravity lamp.  Just what would it be useful for?
 
 =====
 Day 4
 =====
 
- 1. Quiz 2 on potential and kinetic energy, and work
+ 1. Quiz 2 on potential and kinetic energy
 
 
    
