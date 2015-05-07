@@ -32,15 +32,15 @@ Day 1
 Day 2
 =====
 
+ 1. Comparing the tradeoffs between ramps, levers, and pulleys
+
 
 =====
 Day 3
 =====
 
+ 1. The potential energy is the *same* no matter how you lift something, as long as you lift it to the same height.  This explains why there is a tradeoff between the force applied by a machine and the distance through which you have to pull it. 
 
-=====
-Day 4
-=====
+ 2. Introducing the Rube Goldberg project
 
 
-   

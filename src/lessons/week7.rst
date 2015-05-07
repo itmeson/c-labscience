@@ -45,7 +45,7 @@ Day 2
 Day 3
 =====
 
- 1. Quiz on simple machine tradeoffs
+ 1. How much force is output by a pulley system? 
 
  2. Rube Goldberg work
 
