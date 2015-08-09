@@ -1,11 +1,12 @@
-Week  
-########
+Week 12  
+#######
 
-:date: 2015-09
+:date: 2015-11-23
 :summary: 
 :category: lessons
 :tags: 
-:status: draft
+
+Finals and Thanksgiving
 
 
 =====
@@ -23,9 +24,6 @@ Day 3
 =====
 
 
-=====
-Day 4
-=====
 
 
    

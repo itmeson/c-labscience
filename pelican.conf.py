@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u"Mark Betnel"
-SITENAME = u"Lab Science 2014-2015"
-SITEURL = 'http://markbetnel.com/courses/labscience/base'
+SITENAME = u"Lab Science 2015-2016"
+SITEURL = 'http://markbetnel.com/courses/labscience/f2015'
 
 TIMEZONE = 'America/Los_Angeles'
 GOOGLE_ANALYTICS = "UA-20141547-1"

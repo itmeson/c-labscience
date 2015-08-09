@@ -1,11 +1,12 @@
-Week  
-########
+Week 9 
+######
 
-:date: 2015-09
+:date: 2015-11-02
 :summary: 
 :category: lessons
 :tags: 
-:status: draft
+
+Conferences.  No school Monday
 
 
 =====
@@ -22,10 +23,6 @@ Day 2
 Day 3
 =====
 
-
-=====
-Day 4
-=====
 
 
    

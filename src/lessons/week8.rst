@@ -1,11 +1,12 @@
-Week  
-########
+Week 8  
+######
 
-:date: 2015-09
+:date: 2015-10-26
 :summary: 
 :category: lessons
 :tags: 
-:status: draft
+
+Conferences, no school Friday
 
 
 =====
@@ -22,10 +23,6 @@ Day 2
 Day 3
 =====
 
-
-=====
-Day 4
-=====
 
 
    

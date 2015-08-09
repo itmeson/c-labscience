@@ -1,17 +1,19 @@
-Week  
-########
+Week 5 
+######
 
-:date: 2015-09
+:date: 2015-10-05
 :summary: 
 :category: lessons
 :tags: 
-:status: draft
 
+
+First full week
 
 =====
 Day 1
 =====
 
+The Spring Problem
 
 =====
 Day 2

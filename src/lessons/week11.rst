@@ -1,11 +1,12 @@
-Week  
-########
+Week 11  
+#######
 
-:date: 2015-09
+:date: 2015-11-16
 :summary: 
 :category: lessons
 :tags: 
-:status: draft
+
+Last full week of fall trimester
 
 
 =====

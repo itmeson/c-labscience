@@ -1,11 +1,12 @@
-Week  
-########
+Week 7  
+######
 
-:date: 2015-09
+:date: 2015-10-19
 :summary: 
 :category: lessons
 :tags: 
-:status: draft
+
+Full week.  The Domino Problem.  Beginning of Kinematics
 
 
 =====

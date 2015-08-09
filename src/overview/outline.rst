@@ -1,58 +1,75 @@
 Outline
 #######
 
-:date: 2014-09-02
+:date: 2015-09-01
 :category: overview
-:tags: outline, topics, fall
+:tags: outline, topics
+
+
+In LabScience you will learn skills and concepts from the following categories, which will be taught through projects and exercise drawn from the list at the bottom of the page.  Though initial contact with each big idea will occur in roughly the following order, you should expect to use all of these ideas throughout the course.
+
+I. Measurement
+
+   * Unit systems / conversion
+   * Measuring tools
+   * Precision, accuracy, uncertainty
+   * repeated measurements (averaging, standard deviation)
+   * scale, significant figures, order of magnitude estimation
+
+II. Experiment design
+
+    * Identifying relevant variables
+    * Graphing, data presentation
+    * Hypothesis testing
+    * Iterative design, improving measurements
+
+III. Measuring and Describing Motion (kinematics)
+
+     * Measuring speed
+     * Representing motion with graphs and motion maps
+     * Determining speed from graphs
+     * Determining distance travelled from graphs
+
+IV. Conceptual Physics
+   
+    * Describing and measuring interactions
+    * Momentum conservation
+    * Energy conservation
+    * Simple machines
+    * A particle model of gases
+
+V. Big Data
+
+   * Descriptive statistics
+   * Reliability issues
+   * Data representations
+   * Making inferences with data
+
 
 
 Fall
 ----
 
- I. Measurement
-
-    * Unit systems / conversion
-    * Measuring tools
-    * Precision, accuracy, uncertainty
-    * length, mass, time, speed, volume, area, temperature, etc.
-    * associating units with dimensions
-    * repeated measurements (averaging)
-    * scale, significant figures, order of magnitude estimation
-
- II. Experiment design
-
-   * Graphing
-   * Hypothesis testing
-
-
- III. Large data sets
-
-   * Simple stats
-   * Reliability issues
+ 1. The Pendulum problem
+ 2. Measurement, unit conversion, experiment design
+ 3. The Spring problem
+ 4. Graphs and graph reasoning
+ 5. The Domino problem
+ 6. Kinematics
 
 Winter
 ------
 
- I. Conceptual Physics
-   
-    * Describing and measuring motion
-    * Momentum
-    * Buoyancy
-    * Energy
-
-
+ 1. Interactions
+ 2. Momentum
+ 3. Energy
+ 4. Simple Machines
 
 Spring
 ------
 
- I. Energy transfers
+ 1. Climate change
+ 2. Biotechnology
 
-    * potential and kinetic energy
-    * phase changes and reactions
-    * simple machines
-
- II. Rube Goldberg
-
- III. Energy technologies and resources
-
+  
 
