@@ -15,7 +15,7 @@ Day 1
 (20 minute schedule)
 
  1. What is this class all about?
- 2. Groups and the pendulum.  What matters?
+ 2. Groups, mindset, science! 
 
 =====
 Day 2

@@ -56,5 +56,5 @@ Day 3
 
 3. Vocabulary: manipulated, responding, accuracy, precision, standard deviation, average, histogram, significant digits, extrapolation, interpolation, graph, uncertainty
 
-
+4. First quiz - on identifying experimental variables
    
