@@ -35,3 +35,8 @@ PLUGINS = ['create_calendar', 'ical', 'gallery', 'pelican_vimeo', 'tipue_search'
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
 
 SITEMAP = { 'format': 'xml'}
+
+LANDING_PAGE_ABOUT = {'details': """<div itemscope itemtype="http://schema.org/Person"><p>This is an archive copy of the course page for the Fall 2015 trimester of SAAS LabScience (which is now called Scientific Investigation).  If you are a current SAAS SI student, please go to the <a href="http://markbetnel.com/courses/si/current">Current</a> page for information about the current trimester of the class.</p></div>"""}
+
+
+
