@@ -10,7 +10,7 @@ THEME=elegant-course
 
 
 SSH_HOST=web 
-SSH_TARGET_DIR=markbetnel.com/courses/si/w2015-16
+SSH_TARGET_DIR=markbetnel.com/courses/si/current
 
 DROPBOX_DIR=~/Dropbox/Public/
 
@@ -43,7 +43,7 @@ clean:
 
 
 ssh_upload: $(OUTPUTDIR)/index.html
-	scp -r $(OUTPUTDIR)/* web:$(SSH_TARGET_DIR)
+	rsync -avz $(OUTPUTDIR)/* web:$(SSH_TARGET_DIR)
 
 
 .PHONY: html help clean ftp_upload ssh_upload dropbox_upload github

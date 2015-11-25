@@ -10,17 +10,19 @@ What's the deal with the notes?
 3. To practice note-taking as a valuable skill in itself
 4. To be able to notice interesting things, one must record them so they can be reflected upon 
 
-The notetaking system is confusing, and takes some getting used to.  Some
-students are annoyed that they have to rely on others to take notes for them,
-and others are annoyed that they have to take notes, when others might do a
-better job.  The reason I insist on everyone taking a turn is that there is no
-way to get better at if you don't practice it, but the mental load of taking
-notes and paying attention or thinking about figuring things out at the same
-time is too much -- so it is better if one student is designated as the
-note-taker each day, freeing the others to think without having to worry about
-whether or not the results are being recorded.
+The notetaking system is confusing, and takes some getting used to. The reason
+I insist on everyone taking a turn is that there is no way to get better at if
+you don't practice it, but the mental load of taking notes and paying attention
+or thinking about figuring things out at the same time is too much -- so it is
+better if one student is designated as the note-taker each day, freeing the
+others to think without having to worry about whether or not the results are
+being recorded.
 
-Thus each student takes one turn taking notes each week, and in turn is provided with notes by their teammates the other days.  For this to work, you have to be able to trust that your team will do their jobs.  We will achieve that trust by sharing the notes each day, so we can see what has been recorded, and by giving feedback when the notes can be improved.
+Thus each student takes one turn taking notes each week, and in turn is
+provided with notes by their teammates the other days.  For this to work, you
+have to be able to trust that your team will do their jobs.  We will achieve
+that trust by sharing the notes each day, so we can see what has been recorded,
+and by giving feedback when the notes can be improved.
 
 Each student must write their own summary of the most important points of the
 day *every day* as homework.  This is the only way you will be able to process
@@ -41,5 +43,5 @@ If you repeat that process, honestly, every day, you will turn yourself into a l
 
 Finally, when I grade the notes, I am looking for completion of the daily record and for thoughtful reflection in the summary.
 
-.. _coach: http://grantwiggins.wordpress.com/2011/09/25/insight-about-teaching-and-learning-from-soccer/
+.. _coach: http://onemorewiggns.net/
  
