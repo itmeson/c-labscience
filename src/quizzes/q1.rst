@@ -1,0 +1,9 @@
+Quiz 1 
+######
+
+:date: 2016-01-08 
+:category: quizzes
+:tags: quiz, skills
+
+Our first skills quiz will be on January 8th.  It may cover measuring speed, momentum, input-output diagrams, and reading scientific literature (identifying testing variables and communicating results from a scientific article).
+ 
